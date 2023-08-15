@@ -20,7 +20,7 @@ Technologies Used:
 - HTML, CSS, JavaScript
 - SQL Server
 
-GitHub Repository: [Link to Repository](https://github.com/ahmedhamam/e-commerce-app)
+GitHub Repository: [Link to Repository](https://github.com/AhmedHamam/eShopOnWeb.git)
 
 ### Project 2: Task Management App
 Description: An intuitive task management application that helps users organize their tasks, set priorities, and track progress. Built using a responsive design for a seamless user experience.
