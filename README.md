@@ -6,12 +6,12 @@ I am a senior Software Engineer with a passion for crafting elegant solutions an
 
 - **Name:** Ahmed Hammam
 - **Email:** ahmedhamam50@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ahmedhammam)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ahmedhamam50/)
 
 ## Projects
 
 ### Project 1: E-Commerce Web Application
-Description: A fully functional e-commerce website developed using Dot Net Framework, allowing users to browse products, add them to the cart, and complete their purchase.
+Description: A fully functional e-commerce website developed using Dot Net Framework, allowing users to browse products, add them to the cart, and complete their purchases.
 
 Technologies Used:
 - C#
