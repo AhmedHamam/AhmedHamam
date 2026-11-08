@@ -1,47 +1,60 @@
-# Ahmed Hammam's Portfolio
+<div align="center">
 
-## About Me
+# Hi, I'm Ahmed Hamam 👋
 
-I am a senior Software Engineer with a passion for crafting elegant solutions and exploring new technologies. My expertise lies in developing applications using the Dot Net Framework. With a strong foundation in programming and a drive for continuous learning, I am dedicated to creating efficient and impactful software solutions.
+### Senior Full-Stack Software Engineer · .NET · Angular
 
-- **Name:** Ahmed Hammam
-- **Email:** ahmedhamam50@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ahmedhamam50/)
+Building enterprise-scale systems — identity & SSO, GIS integration, API gateways and document workflows — for government clients in Riyadh.
 
-## Projects
+<a href="https://www.linkedin.com/in/ahmedhamam50/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ahmedhamam50@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.facebook.com/ahmedalihamam5703"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://twitter.com/ahmedalifci"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://ahmedhamam.github.io"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 
-### Project 1: E-Commerce Web Application
-Description: A fully functional e-commerce website developed using Dot Net Framework, allowing users to browse products, add them to the cart, and complete their purchases.
+</div>
 
-Technologies Used:
-- C#
-- ASP.NET MVC
-- Entity Framework
-- HTML, CSS, JavaScript
-- SQL Server
+---
 
-GitHub Repository: [Link to Repository](https://github.com/AhmedHamam/eShopOnWeb.git)
+### 🧑‍💻 About me
 
-### Project 2: Task Management App
-Description: An intuitive task management application that helps users organize their tasks, set priorities, and track progress. Built using a responsive design for a seamless user experience.
+- 🏢 Software Engineer on the Applications Team at the **Royal Commission for Riyadh City (RCRC)**
+- 🔐 Identity & access: ASP.NET Core Identity, Entra ID / Azure AD, SSO, reusable identity libraries
+- 🗺️ GIS integrations, API gateways, e-signature and correspondence systems
+- 🧭 Previously: Accenture · ELM · Expert-APPs · Akeed Tech
+- 🌍 Riyadh, Saudi Arabia · Arabic & English
 
-Technologies Used:
-- C#
-- .NET Core
-- Razor Pages
-- Entity Framework Core
-- Bootstrap
+### 🛠️ Tech stack
 
-GitHub Repository: [Link to Repository](https://github.com/ahmedhamam/task-management-app)
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/IIS%20%2F%20Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
 
-## Skills
+### 📌 Featured projects
 
-- Programming Languages: C#, Java, Python
-- Web Development: ASP.NET, HTML, CSS, JavaScript
-- Frameworks: .NET Framework, .NET Core
-- Database Management: SQL Server, MySQL
-- Version Control: Git
+| Project | What it is | Stack |
+|---|---|---|
+| [RealTimeChat](https://github.com/AhmedHamam/RealTimeChat) | Real-time chat with private messages and groups | ASP.NET Core · SignalR · JS |
+| [Electronic Medical Records](https://github.com/AhmedHamam/Electronic-Medical-Records) | EMR system for storing and tracking patient information | C# · .NET |
+| [Clinic Management System](https://github.com/AhmedHamam/Clinic-Management-System) | Clinic management system | C# · .NET |
+| [HIS](https://github.com/AhmedHamam/HIS) | Hospital Information System — graduation project | C# · .NET |
+| [Journey Mentor](https://github.com/AhmedHamam/Journey_Mentor_Task) | Flight and airport data application | — |
+| [Split Zip → Drive](https://github.com/AhmedHamam/Split-Zip-File-upload-to-Drive-) | Compresses a directory into split zip files and uploads them to Drive | C# |
+| [Angular](https://github.com/AhmedHamam/Angular) | Angular samples and practice | TypeScript |
+| [Graduation Project](https://github.com/AhmedHamam/Graduation-Project) | University graduation project | — |
 
-## Contact
+### 📊 GitHub stats
 
-Feel free to reach out to me via email at ahmedhamam50@gmail.com. I'm open to collaboration, job opportunities, and discussions about software development.
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedHamam&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHamam&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
+</div>
