@@ -44,13 +44,11 @@ Building enterprise-scale systems — identity & SSO, GIS integration, API gatew
 | Project | What it is | Stack |
 |---|---|---|
 | [RealTimeChat](https://github.com/AhmedHamam/RealTimeChat) | Real-time chat with private messages and groups | ASP.NET Core · SignalR · JS |
-| [Electronic Medical Records](https://github.com/AhmedHamam/Electronic-Medical-Records) | EMR system for storing and tracking patient information | C# · .NET |
-| [Clinic Management System](https://github.com/AhmedHamam/Clinic-Management-System) | Clinic management system | C# · .NET |
-| [HIS](https://github.com/AhmedHamam/HIS) | Hospital Information System — graduation project | C# · .NET |
-| [Journey Mentor](https://github.com/AhmedHamam/Journey_Mentor_Task) | Flight and airport data application | — |
-| [Split Zip → Drive](https://github.com/AhmedHamam/Split-Zip-File-upload-to-Drive-) | Compresses a directory into split zip files and uploads them to Drive | C# |
-| [Angular](https://github.com/AhmedHamam/Angular) | Angular samples and practice | TypeScript |
-| [Graduation Project](https://github.com/AhmedHamam/Graduation-Project) | University graduation project | — |
+| [Electronic Medical Records](https://github.com/AhmedHamam/Electronic-Medical-Records) | N-tier EMR system — WinForms client + WCF service | C# · WCF |
+| [Clinic Management System](https://github.com/AhmedHamam/Clinic-Management-System) | Patients, staff, suppliers, reports, backup & restore | C# · WinForms · SQL Server |
+| [HIS](https://github.com/AhmedHamam/HIS) | Hospital system: billing, insurance claims, procurement & inventory | C# · WinForms · RDLC |
+| [Split Zip → Drive](https://github.com/AhmedHamam/Split-Zip-File-upload-to-Drive-) | Split-zips a folder and uploads the parts to Google Drive | C# · Drive API |
+| [Graduation Project](https://github.com/AhmedHamam/Graduation-Project) | Patient booking & search desktop app | C# · WinForms |
 
 ### 📊 GitHub stats
 
